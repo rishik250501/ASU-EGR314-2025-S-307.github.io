@@ -5,9 +5,9 @@ tags:
 - tag2
 ---
 
-## Project Name T.D.B.
+## Project Name T.B.D
 
-T.D.B.
+TBD
 
 ## Team Members
 
