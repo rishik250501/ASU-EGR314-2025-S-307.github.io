@@ -7,7 +7,7 @@ tags:
 ---
 
 ## Team Charter
-*Make a project that actually works*
+*Make a project that actually works!*
 
 My Team members have not communicated other common goals to form a better charter.
 
