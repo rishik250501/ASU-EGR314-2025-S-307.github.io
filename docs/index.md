@@ -14,6 +14,7 @@ TBD
 
 1. James Austin
 2. Sophie Bryant
+3. Rishik Atluri
 
 ## Spring 2025
 
