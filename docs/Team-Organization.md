@@ -1,10 +1,3 @@
----
-title: Team Organization
-
-tags:
-- tag1
-- tag2
----
 
 ## Team Charter
 Our goal is to create a design that encourages hands-on interaction. It should feature a device that families can engage with, triggering a physical response. We aim to provide an educational experience, engagingly teaching children something new. The design should be affordable, durable, and built to last. Additionally, it should be easy for families to assemble and disassemble for repeated use.
